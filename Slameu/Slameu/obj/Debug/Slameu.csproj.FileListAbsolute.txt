@@ -1,0 +1,8 @@
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\bin\Debug\Slameu.exe.config
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\bin\Debug\Slameu.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\bin\Debug\Slameu.pdb
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\obj\Debug\Slameu.csproj.AssemblyReference.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\obj\Debug\Slameu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\obj\Debug\Slameu.csproj.CoreCompileInputs.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\obj\Debug\Slameu.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Slameu\Slameu\obj\Debug\Slameu.pdb
