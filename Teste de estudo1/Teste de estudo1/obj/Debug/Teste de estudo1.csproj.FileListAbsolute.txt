@@ -1,0 +1,8 @@
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\bin\Debug\Teste de estudo1.exe.config
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\bin\Debug\Teste de estudo1.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\bin\Debug\Teste de estudo1.pdb
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\obj\Debug\Teste de estudo1.csproj.AssemblyReference.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\obj\Debug\Teste de estudo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\obj\Debug\Teste de estudo1.csproj.CoreCompileInputs.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\obj\Debug\Teste de estudo1.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\Testes de estudo\Teste de estudo1\Teste de estudo1\obj\Debug\Teste de estudo1.pdb
