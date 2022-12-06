@@ -1,0 +1,8 @@
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\bin\Debug\herançalol.exe.config
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\bin\Debug\herançalol.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\bin\Debug\herançalol.pdb
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\obj\Debug\herançalol.csproj.AssemblyReference.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\obj\Debug\herançalol.csproj.SuggestedBindingRedirects.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\obj\Debug\herançalol.csproj.CoreCompileInputs.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\obj\Debug\herançalol.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\herançalol\herançalol\obj\Debug\herançalol.pdb
