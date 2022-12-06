@@ -1,0 +1,8 @@
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\bin\Debug\Mod09 cena da aula qualquer.exe.config
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\bin\Debug\Mod09 cena da aula qualquer.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\bin\Debug\Mod09 cena da aula qualquer.pdb
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\obj\Debug\Mod09 cena da aula qualquer.csproj.AssemblyReference.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\obj\Debug\Mod09 cena da aula qualquer.csproj.SuggestedBindingRedirects.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\obj\Debug\Mod09 cena da aula qualquer.csproj.CoreCompileInputs.cache
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\obj\Debug\Mod09 cena da aula qualquer.exe
+C:\Users\sleep\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documents\Escola xdxd\MOD 9\Mod09 cena da aula qualquer\Mod09 cena da aula qualquer\obj\Debug\Mod09 cena da aula qualquer.pdb
